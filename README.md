@@ -37,6 +37,7 @@ Prerequisite installations
 3. tqdm (progress bar) -  [sudo] pip install tqdm
 4. multiprocessing - [sudo] pip install multiprocessing
 5. sox tool - sudo apt-get install sox
+6. ffmpeg tool - sudo apt-get install ffmpeg
 
 Features
 
